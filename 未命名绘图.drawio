@@ -1,0 +1,16 @@
+<mxfile host="app.diagrams.net" modified="2023-07-03T07:49:47.706Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="1pxHUyiDc2IJ4HVzFEM5" version="21.5.2" type="github">
+  <diagram name="第 1 页" id="7VFbzSY2ydcxUGhW3Gb0">
+    <mxGraphModel dx="1878" dy="1589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="192000" pageHeight="108000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ClAFWImEGTCD87i0SiT6-2" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.radio.aerial_-_antenna_2;fontSize=16;strokeColor=#FF0000;" parent="1" vertex="1">
+          <mxGeometry x="-225" y="-457" width="79" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ClAFWImEGTCD87i0SiT6-8" value="" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="-10" y="-480" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
